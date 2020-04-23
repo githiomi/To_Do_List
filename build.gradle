@@ -1,7 +1,5 @@
 apply plugin: 'java'
 apply plugin: 'application'
-apply plugin: 'id'
-
 
 archivesBaseName = "to-do"
 group 'com.moringa.todolist'
